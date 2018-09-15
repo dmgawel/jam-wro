@@ -5,4 +5,4 @@ hidden: true
 menu: main
 ---
 
-About page content
+We are a group of web devs from Wrocław interested in developing websites that are secure, performant, easily scalable and pleasant to work with. [Join us!](https://www.meetup.com/JAMStack-Wroclaw/)
