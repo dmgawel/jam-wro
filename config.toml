@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "JAMstack Meetup Wrocław"
+theme = "hyde"
+
+[params]
+  description = "Performance, security, dev experience, pizza"
+  themeColor = "theme-base-0c"
